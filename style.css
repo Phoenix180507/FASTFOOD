@@ -310,6 +310,10 @@ section h2 {
   padding: 1.5rem;
 }
 
+.badge{
+    background-color: var(--primary-dark);
+}
+
 .burger-card h3 {
   margin-bottom: 0.7rem;
 
